@@ -10,4 +10,5 @@
 Documentation of this API : https://documenter.getpostman.com/view/10808728/SzS8rjbc 
 
 I took reference from WHO about corona and cowin website also for helpline numbers. 
-Link to website: https://covid-19-trackerwebsite.netlify.app/
+
+Link to website: https://covid-19-suraj.netlify.app/
